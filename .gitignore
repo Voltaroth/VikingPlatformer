@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+### JetBrains ###
+
+# User-specific stuff
+.idea//workspace.xml
+.idea//tasks.xml
+.idea//usage.statistics.xml
+.idea//dictionaries
+.idea/*/shelf
+Plugins/Developer/
+.idea
